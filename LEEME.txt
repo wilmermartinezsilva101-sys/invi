@@ -1,1 +1,5 @@
-Coloca img1.jpg e img2.jpg junto a index.html. Las portadas de los 9 juegos deben llamarse juego1.jpg hasta juego9.jpg. Abre index.html. Los enlaces directos confirmados son Encadenados y Flee the Facility; los demás usan búsqueda hasta que compartas los enlaces exactos.
+ROBLOX PARTY — 9 JUEGOS
+Juego 5 reemplazado por Parkour Together [1–6 Players].
+Usa juego5.jpg para su portada, en la misma carpeta que index.html.
+El botón abre la búsqueda del juego en Roblox hasta confirmar el enlace exacto.
+Abre index.html para usar la página.
