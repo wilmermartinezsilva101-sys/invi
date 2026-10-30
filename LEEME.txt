@@ -1,0 +1,1 @@
+Coloca img1.jpg e img2.jpg junto a index.html. Las portadas de los 9 juegos deben llamarse juego1.jpg hasta juego9.jpg. Abre index.html. Los enlaces directos confirmados son Encadenados y Flee the Facility; los demás usan búsqueda hasta que compartas los enlaces exactos.
